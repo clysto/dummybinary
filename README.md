@@ -8,6 +8,6 @@ A tool to generate dummybinary.
 Usage of dummybinary:
   -o string
         output file path (default "a")
-  -s uint
+  -s int
         output file size (default 128)
 ```
